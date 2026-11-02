@@ -21,12 +21,12 @@ The algorithm to calculate optimal outfielder positioning takes the last *n* bat
 
 Example 1: Find the optimal outfielder positioning versus Kyle Schwarber.
 ``` r
-Once available, populate code here.
+Once available, code to be populated here.
 ```
 
 Example 2: Given Tristan Peters in center field, field optimal positioning versus Seiya Suzuki.
 ``` r
-Once available, populate code here.
+Once available, code to be populated here.
 ```
 
 ## Planned Features
